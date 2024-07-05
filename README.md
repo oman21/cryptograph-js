@@ -24,8 +24,8 @@ console.log("decrypted", decrypted); // result: Hello World! 4234309?_.
 
 | Prop            | Type    | Default                                                                                                                      | Description                                            |
 |-----------------|---------|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| key         | number  |                                                                                                                         | Datetime picker modal visible                          |
-| text         | string     | ""                                                                                                                           | Set minimum date (Date or string).                     |
+| key         | number  |                                                                                                                         | key for encrypt/decrypt                          |
+| text         | string     | ""                                                                                                                           | text for encrypt/decrypt                     |
 | decrypt         | boolean     | false                                                                                                                           | true for decode                     |
 
 
