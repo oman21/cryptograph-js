@@ -1,0 +1,27 @@
+{
+  "name": "cryptograph-js",
+  "version": "0.0.1",
+  "description": "Cryptograph For Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oman21/cryptograph-js.git"
+  },
+  "keywords": [
+    "cryptograph",
+    "cipher",
+    "js"
+  ],
+  "author": "oman21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oman21/cryptograph-js/issues"
+  },
+  "homepage": "https://github.com/oman21/cryptograph-js#readme",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
