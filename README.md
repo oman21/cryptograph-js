@@ -16,7 +16,7 @@ const text = "Hello World! 4234309?_.";
 const encrypted = Cipher(key, text);
 console.log("encrypted", encrypted) // result: Igopt Yrvqe! 8746644?_.
 
-const decrypted = Cipher(encrypted, true);
+const decrypted = Cipher(key, encrypted, true);
 console.log("decrypted", decrypted); // result: Hello World! 4234309?_.
 ```
 

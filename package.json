@@ -1,5 +1,5 @@
 {
-  "name": "cryptograph-js",
+  "name": "@oman21/cryptograph-js",
   "version": "0.0.1",
   "description": "Cryptograph For Javascript",
   "main": "index.js",
